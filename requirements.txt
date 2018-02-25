@@ -1,0 +1,2 @@
+flask
+-e git+ssh://git@github.com/exsortis/sweetrpg-models.git@develop#egg=sweetrpg-models
